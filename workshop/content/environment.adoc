@@ -1,3 +1,9 @@
+## テスト
+日本語が表示されるでしょうか。
+---
+ためしてみましょう
+---
+
 ## Environment Overview
 
 You will be interacting with an OpenShift 4 cluster that is running on {{
